@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15498340161",
+    "firebase_url": "https://first-authen.firebaseio.com",
+    "project_id": "first-authen",
+    "storage_bucket": "first-authen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15498340161:android:95b6df2fa84b4ca93a23c0",
+        "android_client_info": {
+          "package_name": "com.anotherChance.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15498340161-g0l61c26kjd61i7kmmegmjl125f3jasg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eid8edlNJp5pbyuRiblFbKCXNciQ9PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15498340161-g0l61c26kjd61i7kmmegmjl125f3jasg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
